@@ -3,27 +3,36 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanzakisuemi" alt="kanzakisuemi" /></a> </p>
 
-- 🔭 I’ve been working on [PagueAluguel](https://github.com/TreinaDev/pague-aluguel)
+- 🔭 I’ve recently worked on [PagueAluguel](https://github.com/TreinaDev/pague-aluguel), a team project developed during the TreinaDev training program.
 
 - 🌱 I’m currently learning **Ruby on Rails and exploring various js frameworks and libraries, including Stimulus, Vue.js, and others.**
 
 - 📫 How to reach me **kanzaki@myself.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
+<details>
+  <summary><strong>Languages and Tools:</strong></summary><br>
+  
+  ![Ruby](https://img.shields.io/badge/Ruby-872341?style=for-the-badge&logo=ruby&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-872341?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  
+  > #### Front-End
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+  > #### Databases
+  > ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+
+  > #### Testing Tools
+  > ![Rspec](https://img.shields.io/badge/Rspec-BBE9FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjUxMiIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtMzIyLjM4NDE4NTggMTQ1LjU3NTY2ODMgNjguNTQ4NjQ1IDcwLjI4NDA1NzYtMTcuMzU0MDk1NSAzMS42NzEyMTg5LTExOS4zMDkzNzE5IDE0OS4yNDUxNDc3LTExOS4zMDkzNTY3LTE0NS43NzQzMzc3LTE3LjM1NDA4MDItMzUuMTQyMDI4OCA2OC41NDg2NjAzLTcwLjI4NDA1NzZoMTM2LjIyOTU5OXptLTIyLjEwODg1NjItMTA5LjU2NTg0MTYtMjUuNjc1NDE1IDMzLjk0NDgzMThjMTIzLjQxMDkxOTEgMTIuMDc1ODc0MyAxOTcuNDk3Mzc1NCAxMzcuOTU3NDgxNCAxNTguNDQyMDE2NiAyNDguMzg0Nzg4NWwxOS44NzQ4MTY5IDM5LjUyODY4NjUgMzkuNDk1MDI1Ni0yLjk4OTE2NjNjNjQuOTM0MzU2Ny0xNTQuMjY4MzI1Ny0zOC4xMDA2MTY1LTMzNi45NDUzOTA2LTIxMi43MzE1MDY0LTM1My4xMjM0OTA2em0tMjgyLjY4OTEzMDggMzEyLjY4MjA2NzhjLTY2LjEyMjc5MzItMTY4LjM3NjMyNzUgNjIuNTcyMjMzMi0zNTQuMTI0NTYzNyAyNDYuMzM4MTQ4MS0zNDcuOTM2NDM5OWwyMC42OTYwMTQ0IDM0LjQyMjE1NzMtMjUuNjI0MjA2NSAzMy44NzY2NjMyYy0xMzQuNjczMTU2OC0yLjQxMTU4MjUtMjI3Ljg5ODE5NTMgMTM2LjExNzk5NjYtMTc1LjYzMTg1ODggMjU5Ljc0Mzc1OTZsLTQyLjc3MDc1OTYtMTEuMjIxNTI3MXptNDY4LjcwNzkyOTYgMTkuNjc0NzQzNy00MS4wNzMxNTA2IDMuMTA4NjEyMS0xOC42Njc1NDE1LTM3LjEyNzIyNzhjLTU0LjEwOTM0NDUgMTI0Ljg4MzMwMDgtMjUwLjU4ODQ3MDUgMTYyLjE4MTAzMDMtMzM1LjkwODI2NDIgOS43ODcxNzA0bC00NC44Mzg4NTU3LTExLjc2NDIyMTItMjIuMzAxMTYwOCAzMC4xNjAwMDM3YzEwNC41MDU1ODY2IDIxMy45MjE3ODM0IDM4MS41NzQ0MzQyIDE4MC42MjAyNjk3IDQ2Mi43ODg5NzI4IDUuODM1NjYyOHoiLz48L3N2Zz4=)
+  ![Capybara](https://img.shields.io/badge/Capybara-872341?style=for-the-badge&logo=capybara)
+</details>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzakisuemi&show_icons=true&locale=en&layout=compact" alt="kanzakisuemi" /></p>
 
