@@ -1,9 +1,10 @@
 <h2 align="center">Hello World! I'm Julia ✨</h2>
 <h3 align="center">An undergraduate student pursuing a degree in Software Engineering.</h3>
 
-- 💻 I’ve recently worked on [PagueAluguel](https://github.com/TreinaDev/pague-aluguel), a team project developed during the TreinaDev training program.
-- 🌱 I’m currently diving deeper into Ruby on Rails, exploring new tech, and working on improving my soft skills along the way.
-- ✉️ Feel free to reach out to me on **kanzaki@myself.com** or **kanzakisuemi@edu.unifil.br**.
+- 🏫 Enrolled at Centro Universitário Filadelfia (Unifil)
+- 💻 Recently worked on [PagueAluguel](https://github.com/TreinaDev/pague-aluguel), a team project developed during the TreinaDev training program.
+- 🌱 Currently diving deeper into Ruby on Rails, exploring new tech, and working on improving my soft skills along the way.
+- ✉️ Feel free to reach out to me at **kanzaki@myself.com** or **kanzakisuemi@edu.unifil.br**.
 
 <h3>Languages and Tools</h3>
 
