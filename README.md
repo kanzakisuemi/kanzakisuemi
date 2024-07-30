@@ -40,7 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/kanzakisuemi">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzakisuemi&show_icons=true&locale=en&layout=compact&theme=jolly" alt="kanzakisuemi" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kanzakisuemi&show_icons=true&locale=en&theme=jolly" alt="kanzakisuemi" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzakisuemi&show_icons=true&locale=en&layout=compact&theme=jolly" alt="kanzakisuemi" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kanzakisuemi&show_icons=true&locale=en&theme=jolly" alt="kanzakisuemi" />
+  </a>
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanzakisuemi" alt="kanzakisuemi" /></a> </p>
