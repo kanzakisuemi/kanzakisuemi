@@ -1,13 +1,11 @@
-<h2 align="center">Hi, I'm Julia ✨</h2>
+<h2 align="center">Hello World! I'm Julia ✨</h2>
 <h3 align="center">An undergraduate student pursuing a degree in Software Engineering. Passionate about coding and eager to learn and grow in the field, I am actively working on projects and building my skills.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanzakisuemi" alt="kanzakisuemi" /></a> </p>
 
 - 🔭 I’ve recently worked on [PagueAluguel](https://github.com/TreinaDev/pague-aluguel), a team project developed during the TreinaDev training program.
 
 - 🌱 I’m currently diving deeper into Ruby on Rails, exploring new tech, and working on improving my soft skills along the way.
 
-- 📫 Feel free to reach out to me via email at **kanzaki@myself.com**.
+- ✉️ Feel free to reach out to me via email at **kanzaki@myself.com**.
 
 <h3>Languages and Tools</h3>
 
@@ -50,6 +48,9 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzakisuemi&show_icons=true&locale=en&layout=compact&theme=jolly" alt="kanzakisuemi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanzakisuemi&show_icons=true&locale=en&theme=jolly" alt="kanzakisuemi" /></p>
+<div align="center">
+  <a href="https://github.com/ruliancruz">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzakisuemi&show_icons=true&locale=en&layout=compact&theme=jolly" alt="kanzakisuemi" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kanzakisuemi&show_icons=true&locale=en&theme=jolly" alt="kanzakisuemi" />
+</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanzakisuemi" alt="kanzakisuemi" /></a> </p>
