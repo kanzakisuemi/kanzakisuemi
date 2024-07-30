@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ruliancruz">
+  <a href="https://github.com/kanzakisuemi">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzakisuemi&show_icons=true&locale=en&layout=compact&theme=jolly" alt="kanzakisuemi" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kanzakisuemi&show_icons=true&locale=en&theme=jolly" alt="kanzakisuemi" />
 </div>
