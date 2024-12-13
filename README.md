@@ -1,5 +1,5 @@
 <h2 align="center">Hello World! I'm Julia ✨</h2>
-<h3 align="center">An undergraduate student pursuing a degree in Software Engineering.</h3>
+<!-- <h3 align="center">An undergraduate student pursuing a degree in Software Engineering.</h3>
 
 - 🏫 Enrolled at Centro Universitário Filadelfia (Unifil).
 - 💻 Recently worked on [PagueAluguel](https://github.com/TreinaDev/pague-aluguel), a team project developed during the TreinaDev training program.
@@ -44,4 +44,4 @@
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kanzakisuemi&show_icons=true&locale=en&theme=jolly" alt="kanzakisuemi" />
   </a>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanzakisuemi" alt="kanzakisuemi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanzakisuemi" alt="kanzakisuemi" /></a> </p> -->
